@@ -1,0 +1,49 @@
+﻿body
+{
+    background-color:indianred;
+}
+#fodoboz
+{
+    width:704px;
+    height:90vh;
+    border:2px solid yellow;
+    background-color:lightcoral;
+    margin:0 auto;
+    padding:10px;
+}
+.doboz
+{
+    width:200px;
+    height:100px;
+    border:1px black solid;
+    background-color:darkblue;
+    padding:10px;
+    margin:5px;
+    display:inline-block;
+}
+.doboz:hover {
+    width: 200px;
+    height: 70px;
+    border: 1px red solid;
+    background-color: blue;
+    padding: 10px;
+    margin: 5px;
+    display: inline-block;
+}
+h1{
+    color:aquamarine;
+    text-align:center;
+}
+#tartalom
+{
+    width:704px;
+    height:70vh;
+    border: 1px solid darkred;
+    background-color:#e78fbc;
+}
+iframe
+{
+    width:99%;
+    height:99%;
+    border:none;
+}
